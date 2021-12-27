@@ -2,11 +2,12 @@
 Final Project for Data 3500 (Fall 2021), we were allowed to do whatever we wanted using skills learned from this semester
 - Data was obtained from a web JSON API
 - Stock market trading simulation, on real time market prices 
-  - Ran multiple technical trading strategies including: bollinger bands, mean reversion, moving average crossover in Python on AWS.
+- Ran multiple technical trading strategies including: bollinger bands, mean reversion, moving average crossover in Python on AWS.
   - Strategies were run for 10 stock tickers
   - Inside the logic is a ticker stating if it is best to buy or sell a certain stock based on the day (as long as new data is appended) 
-  - Strategies yielded as high as 43% annually. 
+- Strategies yielded as high as 43% annually. 
   - Managed all data scripts and server side logic. 
+- Data is created and appended to CSV files, where the functions can effectively pull the data from and then perform analysis
 
 
 
