@@ -1,4 +1,4 @@
-# Stock Trading Simulator ABOUT: 
+# Stock Trading Simulator About: 
 This was a final project for Data 3500 (Fall 2021) at Utah State University, where we were able to use a variety of skills learned from this semester.
 
 # Features:
@@ -13,7 +13,7 @@ This was a final project for Data 3500 (Fall 2021) at Utah State University, whe
   - Once each strategy is performed on each specified stock, the results are added to a .JSON file.
 
 
-# Results
+# Results:
 - Strategies yielded as high as 43% annually. 
   - Returns using data spanning from 1999 to 2021: AAPL Bollinger Bands Percent Return at 489%.
 - Once each strategy is performed on each specified stock, the results are added to a .JSON file.
@@ -24,5 +24,12 @@ This was a final project for Data 3500 (Fall 2021) at Utah State University, whe
 <img width="313" alt="Screen Shot 2021-12-26 at 5 35 24 PM" src="https://user-images.githubusercontent.com/96510784/147425660-13a005f4-0bbf-491d-8e3c-95b9fcd9d623.png"><img width="1060" alt="Screen Shot 2021-12-26 at 5 42 09 PM" src="https://user-images.githubusercontent.com/96510784/147425958-ca9fe28a-8cf1-45b5-8c58-95e1fc6c3261.png">
 
 
-# Acquired Knowledge
+# Acquired Knowledge:
+- Experience pulling data using web JSON APIs.
+- Further advanced programming skills using AWS and Cloud 9 IDE.
+- Use of real time market data.
+- Further advanced skills iterating through and pulling specifeid data through Python lists and dictionaries for the purpose of data analysis. 
+- Managed all data scripts and server side logic. 
+- Developed a deeper understanding of creating Python functions.
+
 
