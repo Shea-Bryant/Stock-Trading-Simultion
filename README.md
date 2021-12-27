@@ -18,3 +18,4 @@ This was a final project for Data 3500 (Fall 2021) at Utah State University, whe
   - Returns using data spanning from 1999 to 2021: AAPL Bollinger Bands Percent Return at 489.23%
 
 # Acquired Knowledge
+<img width="582" alt="Screen Shot 2021-12-26 at 5 33 16 PM" src="https://user-images.githubusercontent.com/96510784/147425602-c17153f6-ed7b-45b5-aa0e-266264df06a9.png">
